@@ -1,4 +1,4 @@
-FROM ubuntu:14.04 
+FROM ubuntu:trusty-20190515 
 MAINTAINER José Domingo Muñoz "josedom24@gmail.com"
 
 RUN apt-get update && apt-get -y upgrade
